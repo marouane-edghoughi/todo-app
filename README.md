@@ -1,4 +1,4 @@
-# Project Name
+# Todo App
 
 > Todo App written in ReactJS TypeScript + Spring Boot Backend
 
